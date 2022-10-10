@@ -12,12 +12,14 @@
  ## Capítulo 1: Estructura de Datos
   ### Tema 1: Trie
   [Definición] 
+  
   [Código Array]  
   [Código Map]  
   [Variantes]  
   [Problemas]  
   ### Tema 2: Union Find
   [Definición] 
+  
   [Código]  
   [Problemas]  
   ### Tema 3: Segment Tree
@@ -26,12 +28,14 @@
   [Problemas]  
   ### Tema 4: BIT
   [Definición]
+  
   [Problemas] 
 
  <div align="left">  
  
   ## Capítulo 2: Backtracking  
    [Definición]
+  
    [Problemas]
 
  <div align="left">  
