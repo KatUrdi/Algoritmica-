@@ -11,17 +11,17 @@
   
  ## Capítulo 1: Estructura de Datos
   ### Tema 1: Trie
-  [Definición] 
+  Definición 
   
-  [Código Array]  
-  [Código Map]  
-  [Variantes]  
-  [Problemas]  
+  Código Array  
+  Código Map  
+  Variantes  
+  Problemas  
   ### Tema 2: Union Find
-  [Definición] 
+  Definición 
   
-  [Código]  
-  [Problemas]  
+  Código  
+  Problemas  
   ### Tema 3: Segment Tree
   [Definición]  
   [Código]  
