@@ -9,3 +9,8 @@ La programación dinámica es un método para reducir el tiempo de ejecución de
 ![image](https://manualestutor.com/wp-content/uploads/Programacion-dinamica-Mochila-0-1-Codigo-Python.jpg)
 
 Algunos de los problemas vistos en clase que utilizan la programación dinámica son:
+- Subset Sum
+- Digit DP
+- Busqueda Binaria
+- Subsecuencia incremental mas larga
+
