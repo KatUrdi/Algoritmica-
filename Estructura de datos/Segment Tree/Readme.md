@@ -1,1 +1,1 @@
-
+Un Segment Tree es una estructura de datos que almacena el resultado de operaciones entre un intervalo existente de un arreglo. Permite realizar consultas y actualizaciones de datos en tiempo logaritmico.![segtree](https://user-images.githubusercontent.com/84255151/130512896-0fc154ea-b2bc-4790-91cc-6b199d72d5c5.png)
