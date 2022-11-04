@@ -5,8 +5,6 @@ Dados 2 números a y b, podríamos hallar los números dentro del rango que cump
 
 - f(a,b) = f(b) - f(a - 1)
 
-![image](https://i.ytimg.com/vi/Pa4YwO8B8-w/maxresdefault.jpg)
-
 Para resolver un problema usando Digit debemos seguir los siguientes pasos:
 - Primeramente, debemos fabricar todos los números sin que excedan a x (x es el número máximo del rango dado).
 - A partir de esto podemos calcular los números que cumplan la condición dada, fijándonos en la posicion de cada dígito y si el número en esa posicion es mayor o menor a x.
